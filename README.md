@@ -1,3 +1,5 @@
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
+
 # **Documentações**
 
 ### Aqui se encontram os links de todas as documentações de API dos projetos
@@ -214,5 +216,4 @@
 
     <br>
 
-<!-- <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%"> -->
-<!-- ![](https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif) -->
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
