@@ -2,10 +2,12 @@
 
 # **Documentações**
 
-### &nbsp;&nbsp;Aqui se encontram os links de todas as documentações de API dos projetos
+### &nbsp;&nbsp;Aqui se encontram os projetos e links para suas documentações
 <br>
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="70%" /></p>
+
+<br>
 
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
