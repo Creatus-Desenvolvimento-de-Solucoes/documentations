@@ -16,6 +16,9 @@
 -   [Confort](#confort)
 -   [Encore](#encore)
 -   [SelectPromoAPI](#selectpromoapi)
+-   [SelectPromo](#selectpromo)
+-   [SelectPromo-Pro](#selectpromo-pro)
+-   [SelectPromo Contratante](#selectpromo-contratante)
 
 ## **Tecnopuc**
 
@@ -213,9 +216,11 @@
 
     <br>
 
--   ## **SelectPromoAPI**
+## **SelectPromoAPI**
 
-    -   ### [Link para documentação da API](https://api.selectpromo.com.br/docs)
+###  &nbsp;&nbsp;[Link para documentação da API](https://api.selectpromo.com.br/docs)
+
+-   ### Backend
 
     -   #### **Linguagens e Tecnologias Ultilizadas**
 
@@ -226,8 +231,74 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=50px/> &nbsp;
         <img src="assets/prisma-3.svg" height=50px/>
         <br>
+        
+    -   #### **Responsáveis**
+    
+        -    José Dota
+        -    Sophia Furini
+
+    <br>       
+
+
+-   ## **SelectPromo**
+
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
         <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px />
+          
+          
+        <br>
+        
+    -   #### **Responsáveis**
+    
+        -    Giovanni
+        -    Leonardo Ramos
+        -    Sophia Furini (às vezes)
+        
 
     <br>
+    
+-   ## **SelectPromo-Pro**
+
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px />
+          
+        <br>
+        
+    -   #### **Responsáveis**
+    
+        -    Leonardo Ramos
+        -    Sophia Furini (às vezes)
+
+    <br>
+   
+-   ## **SelectPromo-Contratante**
+
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/meteor/meteor-original.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=50px />
+          
+        <br>
+        
+    -   #### **Responsáveis**
+    
+        -    Leonardo Ramos
+        -    Sophia Furini (às vezes)
+
+    <br>
+    
 
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
