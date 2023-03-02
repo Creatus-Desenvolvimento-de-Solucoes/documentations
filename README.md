@@ -15,7 +15,7 @@
 -   [Horario-X Dashboard](#horario-x-dashboard)
 -   [Confort](#confort)
 -   [Encore](#encore)
--   [SelectPromo](#selectpromo)
+-   [SelectPromoAPI](#selectpromoapi)
 
 ## **Tecnopuc**
 
@@ -23,7 +23,7 @@
 
 -   ### Backend
 
-    -   #### **Linguagens e Tecnologias**
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
            <br>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@
            <img src="assets/prisma-3.svg" height=50px/>
            <br>
 
-    -   ### Responsáveis
+    -   #### **Responsáveis**
 
         -   José Dota
         -   Sophia Furini
@@ -42,7 +42,7 @@
 
 -   ### Frontend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="assets/chakra-ui.svg" height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,10 +50,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50px />
         <br>
 
-    -   ### Responsáveis
-        -   ### Leonardo Ramos
+    -   #### **Responsáveis**
+    
+        -    Leonardo Ramos
 
-<br>
+    <br>
 
 ## **Horario-X**
 
@@ -61,7 +62,7 @@
 
 -   ### Backend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="assets/fastify.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;
@@ -71,14 +72,15 @@
         <img src="assets/prisma-3.svg" height=50px/>
         <br>
 
-    -   ### Responsáveis
+    -   #### **Responsáveis**
 
-        -   ### Sophia Furini
-        -   ### Leonardo Barbosa
-
+        -    Sophia Furini
+        -    Leonardo Barbosa
+    <br>
+    
 -   ### Frontend
 
-    -   ### Linguagens e Tecnologias ultilizadas no Frontend
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
@@ -87,9 +89,9 @@
         <img src="assets/chakra-ui.svg" height=50px/>
         <br>
 
-    -   ### Responsáveis
+    -   #### **Responsáveis**
 
-        -   ### Felipe Duarte
+        -    Felipe Duarte
 
     <br>
 
@@ -99,7 +101,7 @@
 
 -   ### Backend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="assets/fastify.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;
@@ -109,13 +111,15 @@
         <img src="assets/prisma-3.svg" height=50px/>
         <br>
 
-    -   ### Responsáveis
-        -   ### Sophia Furini
-        <br>
+    -   #### **Responsáveis**
+    
+        -    Sophia Furini
+        
+    <br>
 
 -   ### Frontend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
@@ -123,10 +127,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
         <br>
 
-    -   ### Responsáveis
-        -   ### Felipe Duarte
+    -   #### **Responsáveis**
+    
+        -    Felipe Duarte
 
-<br>
+    <br>
 
 ## **Confort**
 
@@ -134,7 +139,7 @@
 
 -   ### Backend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -144,14 +149,16 @@
         <img src="assets/prisma-3.svg" height=50px/>
         <br>
 
-    -   ### Responsáveis
-        -   ### José Dota
-        -   ### Sophia Furini
-        <br>
+    -   #### **Responsáveis**
+    
+        -    José Dota
+        -    Sophia Furini
+        
+    <br>
 
 -   ### Frontend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
@@ -159,11 +166,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
         <br>
 
-    -   ### Responsáveis
-        -   ### Felipe Duarte
-        -   ### Leonardo Ramos
+    -   #### **Responsáveis**
+    
+        -    Felipe Duarte
+        -    Leonardo Ramos
 
-<br>
+    <br>
 
 ## **Encore**
 
@@ -171,7 +179,7 @@
 
 -   ### Backend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="assets/fastify.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;
@@ -181,13 +189,16 @@
         <img src="assets/prisma-3.svg" height=50px/>
         <br>
 
-    -   ### Responsáveis
-        -   ### Sophia Furini
-        -   ### Leonardo Barbosa
-
+    -   #### **Responsáveis**
+    
+        -    Sophia Furini
+        -    Leonardo Barbosa
+        
+    <br>
+    
 -   ### Frontend
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
@@ -195,17 +206,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />&nbsp;&nbsp;&nbsp;
         <br>
 
-    -   ### Responsáveis
-        -   ### Felipe Duarte
-        -   ### Leonardo Ramos
+    -   #### **Responsáveis**
+    
+        -    Felipe Duarte
+        -    Leonardo Ramos
 
-<br>
+    <br>
 
--   ## **SelectPromo**
+-   ## **SelectPromoAPI**
 
     -   ### [Link para documentação da API](https://api.selectpromo.com.br/docs)
 
-    -   ### Linguagens e Tecnologias ultilizadas
+    -   #### **Linguagens e Tecnologias Ultilizadas**
 
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;&nbsp;&nbsp;
