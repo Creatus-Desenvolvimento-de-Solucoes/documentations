@@ -48,7 +48,7 @@
 
     -   #### **Responsáveis**
 
-        -   José Dota
+        -   José Dotta
         -   Sophia Furini
 
     <br>
@@ -164,7 +164,7 @@
 
     -   #### **Responsáveis**
     
-        -    José Dota
+        -    José Dotta
         -    Sophia Furini
         
     <br>
@@ -244,7 +244,7 @@
         
     -   #### **Responsáveis**
     
-        -    José Dota
+        -    José Dotta
         -    Sophia Furini
 
     <br>       
@@ -328,7 +328,7 @@
         
     -   #### **Responsáveis**
     
-        -    José Dota
+        -    José Dotta
         -    Sophia Furini
 
     <br>       
