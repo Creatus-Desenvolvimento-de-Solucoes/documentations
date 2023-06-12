@@ -29,6 +29,7 @@
 -   [SelectPromo-Pro](#selectpromo-pro)
 -   [SelectPromo Contratante](#selectpromo-contratante)
 -   [Domus](#domus)
+-   [Aços Pampa](#aços-pampa)
 
 ## **Tecnopuc**
 
@@ -331,7 +332,45 @@
         -    José Dotta
         -    Sophia Furini
 
-    <br>       
+    <br> 
+    
+## **Aços Pampa**
+
+### &nbsp;&nbsp;[Link para documentação da API](https://api.acos.creatusdev.com/docs)
+
+-   ### Backend
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+           <br>
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height=50px margin-right= 10px/> &nbsp;&nbsp;&nbsp;&nbsp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height=50px/> &nbsp;
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=50px/> &nbsp;
+           <img src="assets/prisma-3.svg" height=50px/>
+           <br>
+
+    -   #### **Responsáveis**
+
+        -   Sophia Furini
+
+    <br>
+
+-   ### Frontend
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+        <br>
+        <img src="assets/chakra-ui.svg" height=50px/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=50px />
+        <br>
+
+    -   #### **Responsáveis**
+    
+        -    Giovanni
+
+    <br>    
 
     
 
