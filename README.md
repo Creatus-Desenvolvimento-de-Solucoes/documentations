@@ -372,6 +372,43 @@
 
     <br>    
 
+## **LSL Honda**
+
+### &nbsp;&nbsp;[Link para documentação da API](https://api.lsl.creatusdev.com/index.html)
+
+-   ### Backend
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+          <br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=50px/> &nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=50px/> &nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=50px /> &nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height=50px/>
+          <br>
+
+    -   #### **Responsáveis**
+
+        -   José Dotta
+        -   Gabriel Martins
+
+    <br>
+
+-   ### Frontend
+
+    -   #### **Linguagens e Tecnologias Ultilizadas**
+
+          <br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height=50px/> &nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=50px />
+          <br>
+          
+    -   #### **Responsáveis**
+    
+        -    Felipe Duarte
+
+    <br>    
+
     
 
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
